@@ -1,4 +1,4 @@
-Here’s a clean **README.md** for your `Bank_account` class project:
+
 
 ---
 
@@ -76,4 +76,3 @@ print(account.get_balance())
 
 ---
 
-گلادیاتور، می‌خوای این README رو خیلی رسمی (مناسب برای GitHub پروژه) برات بنویسم یا ساده و دوستانه مثل همین نمونه نگه دارم؟
